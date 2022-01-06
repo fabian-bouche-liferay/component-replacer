@@ -1,0 +1,5 @@
+Bundle-Name: component-replacer
+Bundle-SymbolicName: com.liferay.samples.fbo.component.replacer
+Bundle-Version: 1.0.0
+
+Bundle-Activator: com.liferay.samples.fbo.component.replacer.CustomBundleActivator
